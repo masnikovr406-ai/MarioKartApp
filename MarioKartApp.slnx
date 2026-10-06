@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MarioKart.ConsoleApp/MarioKart.ConsoleApp.csproj" />
+  <Project Path="MarioKart.Core/MarioKart.Core.csproj" />
+  <Project Path="MarioKart.WinForms/MarioKart.WinForms.csproj" />
+  <Project Path="MarioKartApp/MarioKartApp.csproj" />
+</Solution>
